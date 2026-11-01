@@ -21,7 +21,7 @@ Now we can launch the application and choose ISO image and then which version of
 <img src="https://github.com/RiPer0/virtualbox-home-lab-setup/blob/main/Assets/ss5_clean.jpg">  
 I will choose Windows 10 after that we just continue installation and we should get our ISO image.
 
-## Step 3 - Creating virtual machines on VB
+## Step 3 - Creating virtual machines (VM) on VB
 Now we can start your VB and start to create our first virtual machines!
 
  We click new in main page at top left then we should be see this window.    
@@ -37,9 +37,11 @@ Now we can start your VB and start to create our first virtual machines!
   <img src="https://github.com/RiPer0/virtualbox-home-lab-setup/blob/main/Assets/ss9_clean.jpg">  
   and for disc space  
   <img src="https://github.com/RiPer0/virtualbox-home-lab-setup/blob/main/Assets/ss10_clean.jpg">  
-  Press finish and you are all set with VM let VirtualBox take care of installation for you. With Ubuntu it's the same process as with Windows.
-  ## Step 4 - Enjoy your home lab  
-  Thank you for reading my tutorial I hope it helped you and have fun at your home lab!
+  Press finish and you are all set with VM let VirtualBox take care of installation for you.
+  ## Step 4 - Enjoy your home lab!
+  That guide shows only creation of VM using windows because ubuntu looks the same with changes to hardware part.  
+  Hope you liked my guide and have fun creating your home lab!
+  
 ## Requirements
 Set your VM with **recommended requirements** when creating new machines for better performance.  
 Ubuntu: https://phoenixnap.com/kb/ubuntu-system-requirements  
